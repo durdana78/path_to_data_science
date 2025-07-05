@@ -1,0 +1,3 @@
+Data Visualization Tutorial
+'Creating Plots' = 'https://youtu.be/UO98lJQ3QGI?si=1fDRk1ZDa6S-FhcK'
+'Bar Chart' = 'https://youtu.be/nKxLfUrkLE8?si=xd5seUTSBzG5tDV8'
